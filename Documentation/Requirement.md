@@ -6,8 +6,9 @@
 Продукт нацелен на людей старшей возрастной группы, поскольку им не всегда удобно просматривать различные сайты в поиске необходимых им новостей
 
 ## 2.2 Интерфейс пользователя
+Интерфейс должен быть максимально простым, понятным и крупным для удобства использования.
 Окно входа в приложение.  
-![Окно входа в приложение](https://github.com/PashaDmitriev/TRiTPO_project/tree/main/Documentation/Mockups/ApplicationLoginWindow.PNG)  
+![Окно входа в приложение](https://github.com/PashaDmitriev/TRiTPO_project/Documentation/Mockups/ApplicationLoginWindow.PNG)  
 Окно регистрации нового пользователя.  
 ![Окно регистрации нового пользователя](https://github.com/PashaDmitriev/TRiTPO_project/tree/main/Documentation/Mockups/RegistrationWindow1.PNG)  
 Окно регистрации нового пользователя после ввода имени, уже зарегистрированного в приложении.  
