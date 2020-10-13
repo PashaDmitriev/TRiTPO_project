@@ -7,7 +7,7 @@
 
 ## 2.2 Интерфейс пользователя
 Окно входа в приложение.  
-![Окно входа в приложение](../../Documentation/Mockups/ApplicationLoginWindow.PNG)  
+![Окно входа в приложение](https://github.com/PashaDmitriev/TRiTPO_project/tree/main/Documentation/Mockups/ApplicationLoginWindow.PNG)  
 Окно регистрации нового пользователя.  
 ![Окно регистрации нового пользователя](../../Documentation/Mockups/RegistrationWindow1.PNG)  
 Окно регистрации нового пользователя после ввода имени, уже зарегистрированного в приложении.  
