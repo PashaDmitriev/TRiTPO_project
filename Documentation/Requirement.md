@@ -1,7 +1,9 @@
 # Содержание
 1 [Введение](#intro)  
 1.1 [Назначение](#appointment)
+
 1.2 [Аналоги](#analogs)
+
 2 [Требования пользователя](#user_requirements)  
 2.1 [Программные интерфейсы](#software_interfaces)  
 2.2 [Интерфейс пользователя](#user_interface)  
