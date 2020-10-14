@@ -61,17 +61,6 @@ RSSMate – очень простая программа для подписки
 
 ## 2.2 Интерфейс пользователя
 Интерфейс должен быть максимально простым, понятным и крупным для удобства использования.
-Окно входа в приложение.  
-![Окно входа в приложение](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/ApplicationLoginWindow.PNG)  
-Окно регистрации нового пользователя.  
-![Окно регистрации нового пользователя](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/RegistrationWindow1.PNG)  
-Окно регистрации нового пользователя после ввода имени, уже зарегистрированного в приложении.  
-![Окно регистрации нового пользователя после ввода имени, уже зарегистрированного в приложении](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/RegistrationWindow2.PNG)  
-Окно входа для зарегистрированного пользователя.  
-![Окно входа для зарегистрированного пользователя](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/LoginScreenForTheRegisteredUser.PNG)  
-Главное окно приложения (пользователь зарегестрирован).    
-Окно настройки профиля пользователя.  
-![Окно настройки профиля пользователя](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/SettingUpAUserProfile.PNG)
 
 <a name="user_specifications"/>
 
