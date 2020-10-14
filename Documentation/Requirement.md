@@ -43,12 +43,7 @@ RSSMate – очень простая программа для подписки
 ![Окно регистрации нового пользователя после ввода имени, уже зарегистрированного в приложении](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/RegistrationWindow2.PNG)  
 Окно входа для зарегистрированного пользователя.  
 ![Окно входа для зарегистрированного пользователя](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/LoginScreenForTheRegisteredUser.PNG)  
-Главное окно приложения (пользователь зарегестрирован).  
-![Главное окно приложения](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/MainWindow1.PNG)  
-Главное окно приложения после выбора новости в таблице (пользователь зарегестрирован).  
-![Главное окно приложения после выбора новости в таблице](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/MainWindow2.PNG)  
-Главное окно приложения после выбора новости в таблице (анонимный пользователь).  
-![Главное окно приложения после выбора новости в таблице](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/MainWindowAnonymousUser.PNG)  
+Главное окно приложения (пользователь зарегестрирован).    
 Окно настройки профиля пользователя.  
 ![Окно настройки профиля пользователя](https://github.com/PashaDmitriev/TRiTPO_project/blob/main/Images/Mockups/SettingUpAUserProfile.PNG)
 
