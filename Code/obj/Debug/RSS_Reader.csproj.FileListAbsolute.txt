@@ -1,0 +1,15 @@
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\bin\Debug\RSS_Reader.exe.config
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\bin\Debug\RSS_Reader.exe
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\bin\Debug\RSS_Reader.pdb
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.csprojAssemblyReference.cache
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.Properties.Resources.resources
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.View.DataEntryWindow.resources
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.View.LoginWindow.resources
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.View.LoginWindowForTheRegisteredUser.resources
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.View.MainWindow.resources
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.View.RegistrationWindow.resources
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.View.SettingsWindow.resources
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.csproj.GenerateResource.cache
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.csproj.CoreCompileInputs.cache
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.exe
+D:\y4eba\5sem\TRiTPO\TRTPO-Project-master\Code\obj\Debug\RSS_Reader.pdb

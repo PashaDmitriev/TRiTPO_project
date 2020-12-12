@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profile>
+  <resources>
+    <resource>https://news.tut.by/rss/index.rss</resource>
+    <resource>https://onliner.by/rss/news.rss</resource>
+    <resource>https://www.onliner.by/rss/news.rss</resource>
+  </resources>
+  <includes />
+  <exclude />
+</profile>
